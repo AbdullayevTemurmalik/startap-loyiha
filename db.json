@@ -1,0 +1,88 @@
+{
+  "ekoNews": [
+    {
+      "id": 1,
+      "title": "Namangada “Yashil Makon” aksiyasi bo‘lib o‘tdi",
+      "description": "Shahar markazida ko‘chat ekish ishlari tashkil etildi. Ko‘ngillilar ishtirokida hudud obodonlashtirildi.",
+      "date": "2025-08-15",
+      "image": "data:image/jpeg;base64,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"
+    },
+    {
+      "id": 2,
+      "title": "Chiqindilarni ajratish loyihasi yo‘lga qo‘yildi",
+      "description": "Plastik, qog‘oz va metall uchun alohida konteynerlar o‘rnatildi. Aholiga tushuntirish ishlari olib borildi.",
+      "date": "2025-07-28",
+      "image": "https://proreforms.uz/media/photos/17045411111sTWmy15094416886635_b.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Eko-marafon: 15 km tozalash yurishi",
+      "description": "Ko‘ngillilar kanal bo‘ylab chiqindilarni yig‘ishdi, sayilgohlar tozalandi va qayta ishlashga topshirildi.",
+      "date": "2025-06-10",
+      "image": "https://www.gazeta.uz/media/img/2024/09/LQCRGt17264668279753_l.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Mahallalarda chiqindi yig‘ish punktlari ochildi",
+      "description": "Aholiga yaqin hududlarda topshirish punktlari ishga tushdi, qabul haftalik jadval asosida olib boriladi.",
+      "date": "2025-05-05",
+      "image": "https://www.gazeta.uz/media/img/2019/04/TUx5Zb15553081049598_b.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Maktab o‘quvchilari daraxt ekishdi",
+      "description": "Ekologiya haftaligida o‘quvchilar va o‘qituvchilar birgalikda ko‘chat ekib, parvarish rejasini tuzishdi.",
+      "date": "2025-04-12",
+      "image": "https://storage.academy.uz/source/1/news/photo_2020-03-04_12-04-29.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Kanal bo‘ylab chiqindilar yig‘ildi",
+      "description": "Yuzlab paketlar plastik va shisha chiqindilar to‘planib, saralanib, qayta ishlash korxonalariga yuborildi.",
+      "date": "2025-03-20",
+      "image": "https://cp.platina.uz/media/uploads/2023/09/16/04.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Chorvachilik chiqindilarini qayta ishlash zavodi ishga tushdi",
+      "description": "Mahalliy zavod bioyoqilg‘i va o‘g‘it ishlab chiqarishni yo‘lga qo‘ydi, chiqindilar kamaymoqda.",
+      "date": "2025-02-10",
+      "image": "https://www.pellet-richi.com/d/file/p/2021/12-24/301f1d329b97db02bc8a5d708f907d45.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Shahar markazida velosiped yo‘laklari qurildi",
+      "description": "15 km yo‘lak foydalanishga topshirildi. Velosipedni ommalashtirish bo‘yicha targ‘ibot ishlari boshlandi.",
+      "date": "2025-01-18",
+      "image": "https://storage.kun.uz/source/7/L_x7HGlDYdWH2gqrYZBUT_2Jd2DVSj2w.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Bog‘larda ekologik festival o‘tkazildi",
+      "description": "Qayta ishlash, chiqindini kamaytirish va suvni tejash mavzularida ma’ruzalar, o‘yinlar va ko‘rgazmalar bo‘ldi.",
+      "date": "2024-12-05",
+      "image": "https://old.adolat.uz/files/original/publication/17065.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Yangi ekologik startap ishga tushdi",
+      "description": "Yoshlar jamoasi plastikdan qayta ishlangan mahsulotlar ishlab chiqarishni boshladi, ish o‘rinlari yaratildi.",
+      "date": "2024-11-20",
+      "image": "https://startupbase.uz/_next/image?url=https%3A%2F%2Fstartupbase.uz%2Fmedia%2Fnews%2FWEB_2.png&w=3840&q=75"
+    },
+    {
+      "id": 11,
+      "title": "Shahar ko‘chalari uchun ekologik lampalar o‘rnatildi",
+      "description": "Yuqori samarali LED lampalar energiya tejash va shaharni ekologik qilish maqsadida o‘rnatildi.",
+      "date": "2025-09-01",
+      "image": "https://mt.benweilight.com/uploads/202232670/i202204131554166287043.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Namangandagi to‘zilov loyihasi ishga tushdi",
+      "description": "Shahar hududida tabiiy manbalarni saqlash va obodonlashtirish maqsadida yangi to‘zilov loyihasi amalga oshirildi.",
+      "date": "2025-09-07",
+      "image": "https://anhor.uz/wp-content/uploads/2024/09/04-3460e4c827.large_-e1726408946100.jpg"
+    }
+  ]
+}
