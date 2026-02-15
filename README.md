@@ -1,2 +1,3 @@
-﻿# startap-loyiha CleanDrop
+﻿# startap-loyiha CleanDrop in ozbekistan
+
 
